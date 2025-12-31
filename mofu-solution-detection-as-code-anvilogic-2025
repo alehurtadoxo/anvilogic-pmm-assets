@@ -1,0 +1,33 @@
+# mofu-solution-guide-detection-as-code-anvilogic-2025
+
+**Title**: Detection-as-Code with Anvilogic  
+**Asset Type**: Solution Page (Web)  
+**Funnel Stage**: MOFU  
+**Asset Classification**: Type 1 – Feature Deep Dive  
+**Version**: v1  
+**Status**: Live  
+**Last Revision Date**: November 2025  
+**Owner**: Product Marketing  
+**Audience**: Detection Engineers, SecOps Architects, SOC Leads  
+**Primary CTA**: Learn how to build detections like code
+
+---
+
+## 🏷️ Tags  
+`mofu` `type-1` `detection-as-code` `detection-engineering` `modular-rules` `gitops` `devsecops` `multi-siem` `mitre` `ai-soc`
+
+---
+
+## 📍 Asset Location  
+- **Public URL**: [https://www.anvilogic.com/solutions/detection-as-code](https://www.anvilogic.com/solutions/detection-as-code)  
+- **Format**: Live webpage  
+- **Distribution**: Website, outbound campaigns, post-demo follow-up
+
+---
+
+## 🧠 Summary  
+This solution page positions Anvilogic’s **Detection-as-Code** approach as the natural evolution for detection engineering teams managing complexity, scale, and hybrid environments.
+
+It emphasizes:
+- MITRE-aligned modular detection rules
+- Version control, reusability, and GitOps
