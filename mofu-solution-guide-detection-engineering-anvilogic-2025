@@ -1,0 +1,71 @@
+# mofu-solution-guide-detection-engineering-anvilogic-2025
+
+**Title**: Detection Engineering with Anvilogic  
+**Asset Type**: Solution Guide (Web Page Section)  
+**Funnel Stage**: MOFU  
+**Asset Classification**: Type 1 – Feature Deep Dive  
+**Version**: v1  
+**Status**: Live  
+**Last Revision Date**: December 2025  
+**Owner**: Product Marketing  
+**Audience**: Detection Engineers, SOC Managers, Security Architects  
+**Primary CTA**: Learn more or book a detection demo
+
+---
+
+## 🏷️ Tags  
+`mofu` `type-1` `detection-engineering` `modular-detection` `ai-soc` `siem-sprawl` `mitre-att&ck` `multi-siem` `cloud-data-lake`
+
+---
+
+## 📍 Asset Location  
+- **Public URL**: [https://www.anvilogic.com/solution-guide-detect#detection](https://www.anvilogic.com/solution-guide-detect#detection)  
+- **Format**: Live web content (scroll to “Detection” section)  
+- **Distribution**: Website, sales follow-up, evaluation enablement
+
+---
+
+## 🧠 Summary  
+This guide explains how Anvilogic enables **modular, AI-assisted detection engineering** across SIEMs and data lakes.
+
+It positions Anvilogic as a **detection-first platform**, architected to support:
+- MITRE-aligned scenario coverage
+- Multi-environment detection correlation
+- AI-driven detection tuning and enrichment
+- Rule modularity and code reuse
+
+---
+
+## ✨ Key Highlights
+- **Multi-SIEM + lake detection**: Write once, deploy anywhere  
+- **AI + human tuning**: Keeps detections high-signal and resilient  
+- **MITRE mapping**: Out-of-the-box + customizable threat scenarios  
+- **Detection lifecycle support**: Build → Tune → Correlate → Validate  
+
+---
+
+## 🧩 Why This Is a MOFU (Type 1) Asset
+- Helps buyers go deeper into **how detection works**, not just what it is  
+- Used when buyers are comparing architectures or evaluating coverage claims  
+- Moves detection engineers from "interested" to "technically engaged"
+
+---
+
+## 💡 Use Cases
+- Post-demo follow-up to reinforce Anvilogic’s detection strengths  
+- Discovery call leave-behind for technical champions  
+- Part of “solution deep dive” sequence in sales process
+
+---
+
+## 🔁 Cross-References
+- [AI SOC Platform 1-Pager (2025)](./ai-soc-platform-one-pager-2025.md)  
+- [SANS Detection Engineering Report](./sans-detection-engineering-2025.md)  
+- [BOFO Case Study: Greenlight + Snowflake](./bofo-case-study-finserv-siem-replacement-ai-soc-snowflake-2025.md)  
+- [Monte Triage Agent Overview](./monte-triage-deep-dive.md)
+
+---
+
+## 📌 Internal Notes
+- Great candidate for **interactive walkthrough or gated demo companion**  
+- Could be paired with a blog: “What Detection Engineering Looks Like in 2026”
