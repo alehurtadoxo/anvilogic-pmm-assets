@@ -3,9 +3,6 @@ A centralized repository for Product Marketing Management (PMM) assets at Anvilo
 
 Overview
 This repository maintains all marketing assets, messaging frameworks, and content deliverables created by the PMM team. Assets are organized by funnel stage (TOFU/MOFU/BOFU) to ensure clear alignment with buyer journey stages and enable easy discovery for sales, partnerships, and marketing teams.
-Repository Structure
-Branches
-main
 
 Purpose: Production-ready assets approved for external use
 
@@ -16,7 +13,6 @@ Approved messaging frameworks and positioning documents
 Partner co-marketing materials
 Product launch assets
 Storylane Demos
-
 
 Access: Read-only for most teams; PMM manages updates
 
@@ -35,8 +31,9 @@ Infographics and data visualizations
 SEO-optimized content
 Competitive intelligence summaries (public-facing)
 
-
 Target Audience: Security professionals, SOC leaders, CISOs researching solutions
+
+_____________________________________________________________________________________
 
 mofu (Middle of Funnel)
 
@@ -52,8 +49,9 @@ Partner solution briefs (Cribl, Torq, etc.)
 Detection engineering showcases
 Platform capability deep-dives
 
-
 Target Audience: Evaluation teams, security architects, procurement stakeholders
+
+_____________________________________________________________________________________
 
 bofu (Bottom of Funnel)
 
@@ -69,24 +67,12 @@ Sales battle cards
 Competitive win/loss analysis (internal)
 Executive summaries and business cases
 
-
 Target Audience: Decision-makers, procurement, implementation teams
 
-development
-
-Purpose: Work-in-progress content and experimental messaging
-Contents:
-
-Draft assets under review
-A/B testing variations
-Messaging experiments
-Template development
-
-
-Access: PMM team only
 
 Asset Naming Conventions
 [FUNNEL-STAGE]_[CONTENT-TYPE]_[TOPIC]_[VERSION]_[DATE]
+
 Examples:
 
 TOFU_Blog_DataLakeConversion_v1_2025-01
